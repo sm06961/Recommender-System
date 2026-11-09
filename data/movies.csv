@@ -1,0 +1,31 @@
+movieId,title,year,genres,description
+1,The Matrix,1999,Action|Sci-Fi,A hacker discovers reality is a simulation and joins a rebellion against machine overlords.
+2,John Wick,2014,Action|Thriller,A retired hitman seeks vengeance against the gangsters who wronged him.
+3,Inception,2010,Action|Sci-Fi|Thriller,A thief who steals corporate secrets through dream-sharing technology takes on one last job.
+4,Interstellar,2014,Adventure|Drama|Sci-Fi,Explorers travel through a wormhole in space to ensure humanity's survival.
+5,The Dark Knight,2008,Action|Crime|Drama,Batman faces the Joker, a criminal mastermind who wants to watch the world burn.
+6,Pulp Fiction,1994,Crime|Drama,The lives of two mob hitmen, a boxer, and a gangster intertwine in tales of violence.
+7,Forrest Gump,1994,Drama|Romance,The story of a slow-witted but kind-hearted man who witnesses key historical events.
+8,The Shawshank Redemption,1994,Drama,A banker sentenced to life in prison forms a bond and finds hope over many years.
+9,Toy Story,1995,Animation|Adventure|Comedy,A cowboy doll is threatened by a new spaceman figure as toys come to life.
+10,Finding Nemo,2003,Animation|Adventure|Comedy,A clownfish searches the ocean to find his abducted son with help from a forgetful fish.
+11,The Lion King,1994,Animation|Adventure|Drama,A young lion prince flees his kingdom after the murder of his father.
+12,Up,2009,Animation|Adventure|Comedy,An elderly widower travels to South America in a house lifted by balloons.
+13,Titanic,1997,Drama|Romance,A seventeen-year-old aristocrat falls in love with a poor artist aboard the doomed ship.
+14,La La Land,2016,Comedy|Drama|Romance,A jazz musician and an aspiring actress fall in love while pursuing their dreams.
+15,The Notebook,2004,Drama|Romance,A poor young man and a rich young woman fall in love in the 1940s.
+16,Gladiator,2000,Action|Adventure|Drama,A betrayed Roman general seeks revenge as a gladiator in the arena.
+17,Saving Private Ryan,1998,Drama|War,Soldiers go behind enemy lines to retrieve a paratrooper during World War II.
+18,The Avengers,2012,Action|Adventure|Sci-Fi,Earth's mightiest heroes unite to stop Loki and his alien army from enslaving humanity.
+19,Guardians of the Galaxy,2014,Action|Adventure|Comedy,A group of intergalactic criminals must pull together to stop a fanatical villain.
+20,Iron Man,2008,Action|Adventure|Sci-Fi,A billionaire industrialist builds a powered suit of armor to fight evil.
+21,The Hangover,2009,Comedy,Three friends retrace their steps after a wild bachelor party they cannot remember.
+22,Superbad,2007,Comedy,Two co-dependent high school friends navigate a night of parties before graduation.
+23,Shutter Island,2010,Mystery|Thriller,A U.S. Marshal investigates a disappearance at a remote psychiatric facility.
+24,Gone Girl,2014,Drama|Mystery|Thriller,A man becomes the prime suspect in the disappearance of his wife.
+25,Se7en,1995,Crime|Mystery|Thriller,Two detectives hunt a serial killer who uses the seven deadly sins as motives.
+26,The Conjuring,2013,Horror|Mystery|Thriller,Paranormal investigators help a family terrorized by a dark presence on their farm.
+27,A Quiet Place,2018,Drama|Horror|Sci-Fi,A family lives in silence to avoid creatures that hunt by sound.
+28,Get Out,2017,Horror|Mystery|Thriller,A young man uncovers disturbing secrets when he meets his girlfriend's family.
+29,Avatar,2009,Action|Adventure|Sci-Fi,A paraplegic Marine is torn between following orders and protecting an alien world.
+30,Mad Max Fury Road,2015,Action|Adventure|Sci-Fi,In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler.
