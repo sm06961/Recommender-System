@@ -1,0 +1,12 @@
+# Core application requires NO third-party packages (standard library only).
+# The libraries below are listed only because the original tutorial foundation
+# used them, and for anyone who wants to extend the project with a vectorized
+# implementation.
+#
+# Install (optional):  py -m pip install -r requirements.txt
+#
+numpy
+pandas
+scikit-learn
+# Used only to regenerate the APA report document (report/build_report.py):
+python-docx
